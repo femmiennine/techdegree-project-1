@@ -243,9 +243,10 @@ a.social:hover {
   background-color: white;
   color: black;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 20px;
   display: table;
-  margin: 120px auto;
+  margin: 100px auto;
+  font-size: 40px;
 }
 
 /* Styles for larger screens */
